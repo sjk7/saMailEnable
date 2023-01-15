@@ -1,0 +1,11 @@
+Recipients=[SMTP:admin@z.mailmateserver.com]
+Server=Z
+Sender=[SMTP:cppguyuk@gmail.com]
+TimeAcquired=1673752669
+ClientIP=209.85.210.49
+AuthenticationStatus=0
+User=
+Account=z
+Status=Delivering
+CommandType=
+Subject=Fwd: NCSUP-92470 Re: Advance payment for order 28598963

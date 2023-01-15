@@ -1,0 +1,19 @@
+
+
+----------------------------------------------------
+15/01/2023 03:17:49	MailEnableSAHelper Started
+15/01/2023 03:17:49	Old log file too big, so I created a new one.
+
+
+----------------------------------------------------
+15/01/2023 03:17:49	MailEnableSAHelper Started
+15/01/2023 03:17:49	Command Arguments: FCE5E48DD181469FA00B7125E98E586F.MAI SMTP
+15/01/2023 03:17:49	'sMsgFile' = V:\MailEnable\Mail Enable\QUEUES\SMTP\Inbound\Messages\FCE5E48DD181469FA00B7125E98E586F.MAI
+15/01/2023 03:17:49	'sMsgCommandFile' = V:\MailEnable\Mail Enable\QUEUES\SMTP\Inbound\FCE5E48DD181469FA00B7125E98E586F.MAI
+15/01/2023 03:17:50	Running SA Process took 985 ms.
+15/01/2023 03:17:50	This message seemed to be HAM (OK, not junk)
+15/01/2023 03:17:50	Checking this email for spam took:  took 1000 ms.
+
+
+----------------------------------------------------
+15/01/2023 03:17:50	MailEnableSAHelper Closed.
